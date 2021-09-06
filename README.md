@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jops-Garcia
 - 👀 Extremamente interessado em aprender coisas novas, atualmente React Native & Flutter.
-- 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado. Estudando linguagens como Python, C, C#. Desbravando a tecnologia Unity.
+- 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado. Estudando linguagens como Python, C, C#.
 
 
 <!---
