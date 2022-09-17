@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jops-Garcia
 - 👀 Extremamente interessado em aprender coisas novas, atualmente querendo desbravar o React Native.
-- 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado. Atualmente estudando linguagens como Python, javascript, java.
+- 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado.
 
 
 <!---
