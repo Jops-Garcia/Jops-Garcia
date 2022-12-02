@@ -3,8 +3,8 @@
 - 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado.
 <div align="center">
   <a href="https://github.com/Jops-Garcia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jops-Garcia&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jops-Garcia&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jops-Garcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jops-Garcia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jops-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
