@@ -24,7 +24,7 @@
   <img align="center" alt="Jops-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jops-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   
-  <img align="right" alt="Jops-gif" height="140" style="border-radius:50px;" src="https://i.imgur.com/yRLltcH.gif">
+  <img align="right" alt="Jops-gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/yRLltcH.gif">
 </div>
   
   ##
