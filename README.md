@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Jops-Garcia">
   <img height="180em" src="https://github-readme-stats-jops-garcia.vercel.app/api?username=Jops-Garcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-jops-garcia.vercel.app/api/top-langs/?username=Jops-Garcia&layout=compact&langs_count=7&theme=midnight-purple&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats-jops-garcia.vercel.app/api/top-langs/?username=Jops-Garcia&layout=compact&langs_count=8&theme=midnight-purple&hide=jupyter%20notebook"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jops-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
