@@ -1,7 +1,6 @@
 ## Hi, I’m João Pedro Garcia
 
 - 🌱 Acredito que estamos sempre em desenvolvimento, logo em constante aprendizado.
-- <a href="https://joaopedrogarcia.vercel.app">Portfolio</a>
 <div align="center">
   <a href="https://github.com/Jops-Garcia">
   <img height="180em" src="https://github-readme-stats-jops-garcia.vercel.app/api?username=Jops-Garcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
